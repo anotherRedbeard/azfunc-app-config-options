@@ -24,4 +24,4 @@ To run the project locally, you will need to do the following:
 
 ### Connection Type
 
-In this simple example we are connecting using connection strings. The main branch is this same example only using managed identity.
+In this simple example we are connecting using connection strings. The master branch is this same example only using managed identity.
